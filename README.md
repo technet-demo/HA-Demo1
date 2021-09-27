@@ -1,1 +1,2 @@
 # HA-Demo
+feature2
