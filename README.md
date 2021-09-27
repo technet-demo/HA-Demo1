@@ -1,2 +1,2 @@
 # HA-Demo
-Feature1 7th development finished
+Feature1 8th development finished
